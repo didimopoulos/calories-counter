@@ -1,2 +1,2 @@
 # calories-counter
-## readme comming soon!!!
+readme comming soon!!!
